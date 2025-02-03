@@ -1,10 +1,10 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COUVE REFOGADA"
+    name="BASE COUVE REFOGADA"
     id="id-e3b878601f9f4455aa986be88c67b826">
   <properties
       key="Rendimento"
-      value="1,000"/>
+      value="0,350"/>
   <properties
       key="Tempo de preparo"
       value="1,00"/>

@@ -1,10 +1,10 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FEIJÃO DE CORDA"
+    name="BASE FEIJÃO DE CORDA"
     id="id-d4333fdd53044953ac85fa26484a5d44">
   <properties
       key="Rendimento"
-      value="1,000"/>
+      value="0,750"/>
   <properties
       key="Tempo de preparo"
       value="1,00"/>
