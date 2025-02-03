@@ -1,4 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TILÁPIA 240G"
-    id="id-908f13f46cd848eebbae6c8d43ef25fb"/>
+    id="id-908f13f46cd848eebbae6c8d43ef25fb">
+  <properties
+      key="Rendimento"
+      value="1,000"/>
+  <properties
+      key="Tempo de preparo"
+      value="1,00"/>
+</archimate:BusinessObject>

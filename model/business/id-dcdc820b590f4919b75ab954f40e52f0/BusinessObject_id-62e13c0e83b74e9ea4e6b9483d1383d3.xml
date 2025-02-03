@@ -1,4 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PURÊ DE JERIMUM"
-    id="id-62e13c0e83b74e9ea4e6b9483d1383d3"/>
+    id="id-62e13c0e83b74e9ea4e6b9483d1383d3">
+  <properties
+      key="Rendimento"
+      value="1,000"/>
+  <properties
+      key="Tempo de preparo"
+      value="1,00"/>
+</archimate:BusinessObject>

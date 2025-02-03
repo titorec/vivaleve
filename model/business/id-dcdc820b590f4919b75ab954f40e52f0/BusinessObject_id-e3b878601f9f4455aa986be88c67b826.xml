@@ -1,4 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="COUVE REFOGADA"
-    id="id-e3b878601f9f4455aa986be88c67b826"/>
+    id="id-e3b878601f9f4455aa986be88c67b826">
+  <properties
+      key="Rendimento"
+      value="1,000"/>
+  <properties
+      key="Tempo de preparo"
+      value="1,00"/>
+</archimate:BusinessObject>
