@@ -425,8 +425,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-992443cdc9d645ada21b6841a7121094">
       <bounds
-          x="1032"
-          y="48"
+          x="312"
+          y="456"
           width="120"
           height="55"/>
       <archimateElement
@@ -437,8 +437,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c1e4b6e5023341ba984b1e216dfa4427">
       <bounds
-          x="1032"
-          y="132"
+          x="456"
+          y="456"
           width="120"
           height="55"/>
       <archimateElement
@@ -456,6 +456,42 @@
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-d5acb4955a5046d4bf4d09b5f4109a46.xml#id-d5acb4955a5046d4bf4d09b5f4109a46"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1c01171bafc9485b8b731999b9e96714">
+      <bounds
+          x="24"
+          y="456"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-86448d192b5e43afaf5437ac0fa77507.xml#id-86448d192b5e43afaf5437ac0fa77507"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c7366da51d0c48709356ce92348fd6a5">
+      <bounds
+          x="168"
+          y="456"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-86448d192b5e43afaf5437ac0fa77507.xml#id-86448d192b5e43afaf5437ac0fa77507"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d664f585a5bb49e38174913e2ccd602a">
+      <bounds
+          x="600"
+          y="456"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-86448d192b5e43afaf5437ac0fa77507.xml#id-86448d192b5e43afaf5437ac0fa77507"/>
     </children>
   </children>
   <children
@@ -533,7 +569,7 @@
         id="id-f9c2d04f32324aba8bf76b3a68b03d4a">
       <features
           name="labelExpression"
-          value="${name}\nRendimento: 3,300"/>
+          value="${name}\nRendimento: 3,070"/>
       <bounds
           x="24"
           y="132"
@@ -653,7 +689,7 @@
         id="id-97c2e0c9aa964038b7dedb8e8d89c050">
       <features
           name="labelExpression"
-          value="${name}\nRendimento: 0,350"/>
+          value="${name}\nRendimento: 0,190"/>
       <bounds
           x="24"
           y="288"
@@ -698,7 +734,7 @@
         id="id-3c354eac29714da98479c05dc801d78b">
       <features
           name="labelExpression"
-          value="${name}\nRendimento: 0,400"/>
+          value="${name}\nRendimento: 0,040"/>
       <bounds
           x="660"
           y="288"
@@ -713,7 +749,7 @@
         id="id-dd1e5553984e4f08baa71ea02fe15f3b">
       <features
           name="labelExpression"
-          value="${name}\nRendimento: 0,580"/>
+          value="${name}\nRendimento: 0,220"/>
       <bounds
           x="852"
           y="288"
