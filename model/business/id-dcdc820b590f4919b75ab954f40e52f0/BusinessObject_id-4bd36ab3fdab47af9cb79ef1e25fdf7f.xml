@@ -4,8 +4,11 @@
     id="id-4bd36ab3fdab47af9cb79ef1e25fdf7f">
   <properties
       key="Rendimento"
-      value="1,000"/>
+      value="2,220"/>
   <properties
       key="Tempo de preparo"
       value="1,00"/>
+  <properties
+      key="Link"
+      value="https://chatgpt.com/share/67a3e80d-7240-8009-bd93-b207878c8de8"/>
 </archimate:BusinessObject>

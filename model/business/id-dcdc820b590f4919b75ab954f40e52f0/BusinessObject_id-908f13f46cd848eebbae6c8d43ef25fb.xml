@@ -4,8 +4,11 @@
     id="id-908f13f46cd848eebbae6c8d43ef25fb">
   <properties
       key="Rendimento"
-      value="6 unidades de 120g para 1Kg"/>
+      value="1,185"/>
   <properties
       key="Tempo de preparo"
       value="1,00"/>
+  <properties
+      key="Link"
+      value="https://chatgpt.com/share/67a3edbe-3d80-8009-be31-ab4be9d9fc12"/>
 </archimate:BusinessObject>

@@ -8,4 +8,7 @@
   <properties
       key="Tempo de preparo"
       value="1,00"/>
+  <properties
+      key="Link"
+      value="https://chatgpt.com/share/67a3db95-79b0-8009-911f-9b2747df148f"/>
 </archimate:BusinessObject>

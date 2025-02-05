@@ -1,4 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BATATA SOUTÉ"
-    id="id-89d41c18e3f442cf914c4fe7e308f740"/>
+    id="id-89d41c18e3f442cf914c4fe7e308f740">
+  <properties
+      key="Rendimento"
+      value="2,100"/>
+  <properties
+      key="Tempo de preparo"
+      value="1,00"/>
+  <properties
+      key="Link"
+      value="https://chatgpt.com/share/67a3eb6d-dcf4-8009-8c4a-5526e41da0f2"/>
+</archimate:BusinessObject>
