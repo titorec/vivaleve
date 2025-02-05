@@ -12,7 +12,7 @@
         x="24"
         y="408"
         width="1177"
-        height="721"/>
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-823f02c3fb114e388116bd83d47fd90e">
@@ -193,7 +193,7 @@
           xsi:type="archimate:DiagramModelNote"
           id="id-c4e698cc3ee54a1eb58d77b59806e9da"
           textAlignment="1"
-          content="1">
+          content="3">
         <bounds
             width="25"
             height="25"/>
@@ -290,7 +290,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-9269d396866745b49116e6363eb709cb"
-      name="Estoque de bases"
+      name="Bases"
       textAlignment="1">
     <bounds
         x="24"
@@ -344,36 +344,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-491a3495e9d14853a232795d7a966220">
-      <features
-          name="labelExpression"
-          value="${name}\nRendimento: 1,060"/>
-      <bounds
-          x="24"
-          y="252"
-          width="181"
-          height="62"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-c1b18d0ebfa2424f81c59103cde89119.xml#id-c1b18d0ebfa2424f81c59103cde89119"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-9764b83ed0754653be381e08dd206c3a">
-      <features
-          name="labelExpression"
-          value="${name}\nRendimento: 0,300"/>
-      <bounds
-          x="228"
-          y="42"
-          width="181"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-40756aa9e80b4eefaa14a69e4e52d27c.xml#id-40756aa9e80b4eefaa14a69e4e52d27c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d3b0d52bf99142da8856a31e60e3b1c1">
       <features
           name="labelExpression"
@@ -388,15 +358,19 @@
           href="BusinessObject_id-d4333fdd53044953ac85fa26484a5d44.xml#id-d4333fdd53044953ac85fa26484a5d44"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-0455a110def942c0b499a2d654e6b736"
-        textAlignment="1"
-        content="Zerar feijão de corda e frango desfiado">
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-55f5e43af0c444b8a15234ccdc1ca058">
+      <features
+          name="labelExpression"
+          value="${name}\nRendimento: 0,500"/>
       <bounds
-          x="399"
-          y="270"
-          width="185"
-          height="80"/>
+          x="228"
+          y="177"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-19111903d82e4de38f3d42ad22a08ebe.xml#id-19111903d82e4de38f3d42ad22a08ebe"/>
     </children>
   </children>
   <children
@@ -404,7 +378,7 @@
       id="id-3c354eac29714da98479c05dc801d78b">
     <features
         name="labelExpression"
-        value="${name}\nRendimento: 0,000"/>
+        value="${name}\nRendimento: 0,060"/>
     <bounds
         x="1224"
         y="84"
@@ -414,7 +388,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-0f9afac01ea04bf18d2cf4ecb8aac25b"
         textAlignment="1"
-        content="5">
+        content="6">
       <bounds
           width="25"
           height="25"/>
@@ -435,108 +409,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-97c2e0c9aa964038b7dedb8e8d89c050">
-    <features
-        name="labelExpression"
-        value="${name}\nRendimento: 0,030"/>
-    <bounds
-        x="1224"
-        y="156"
-        width="169"
-        height="55"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-7b91d08781944af8bed04b8687eabc79"
-        textAlignment="1"
-        content="1">
-      <bounds
-          width="25"
-          height="25"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-cf78b0eca9f7480384f8b4f72e98aae1.xml#id-cf78b0eca9f7480384f8b4f72e98aae1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-19dac7f0e615427db14d9a42d0027e0d">
-    <features
-        name="labelExpression"
-        value="${name}\nRendimento: 0,080"/>
-    <bounds
-        x="1224"
-        y="228"
-        width="169"
-        height="55"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-288d792f497d464eb99d830b2c0d8f25"
-        textAlignment="1"
-        content="2">
-      <bounds
-          width="25"
-          height="25"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-1284d2e3e0be42d1928cc0da57ddc1ce.xml#id-1284d2e3e0be42d1928cc0da57ddc1ce"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-94e9813cbd684b01969cea029a631e96">
-    <features
-        name="labelExpression"
-        value="${name}\nRendimento: 0,000"/>
-    <bounds
-        x="1220"
-        y="300"
-        width="169"
-        height="55"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-bc7480fcf6064cc8a734daf65137cacc"
-        textAlignment="1"
-        content="3">
-      <bounds
-          width="25"
-          height="25"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-40756aa9e80b4eefaa14a69e4e52d27c.xml#id-40756aa9e80b4eefaa14a69e4e52d27c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-92d5e76ee84e4ca7bb37e7bf3bf39326">
-    <features
-        name="labelExpression"
-        value="${name}\nRendimento: 0,000"/>
-    <bounds
-        x="1220"
-        y="372"
-        width="169"
-        height="55"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-021e957fa172479abfd83755a1b205c1"
-        textAlignment="1"
-        content="1">
-      <bounds
-          width="25"
-          height="25"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-19111903d82e4de38f3d42ad22a08ebe.xml#id-19111903d82e4de38f3d42ad22a08ebe"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6f5bcbac3c84eaa82eabe3ab011d5c1">
     <features
         name="labelExpression"
         value="${name}\nRendimento: 0,060&#xA;"/>
     <bounds
-        x="1220"
+        x="1224"
         y="444"
         width="169"
         height="55"/>
@@ -560,8 +438,8 @@
         name="labelExpression"
         value="${name}\nRendimento: 0,040"/>
     <bounds
-        x="1220"
-        y="516"
+        x="1224"
+        y="600"
         width="169"
         height="55"/>
     <children
@@ -584,8 +462,8 @@
         name="labelExpression"
         value="${name}\nRendimento: 0,080"/>
     <bounds
-        x="1220"
-        y="588"
+        x="1224"
+        y="228"
         width="169"
         height="55"/>
     <children
@@ -608,8 +486,8 @@
         name="labelExpression"
         value="${name}\nRendimento: 0,020"/>
     <bounds
-        x="1220"
-        y="660"
+        x="1224"
+        y="372"
         width="169"
         height="55"/>
     <children
@@ -627,13 +505,85 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6dcc8d4b735f43cba856d023f12dcd7b">
+    <features
+        name="labelExpression"
+        value="${name}\nRendimento: 0,000"/>
+    <bounds
+        x="1223"
+        y="672"
+        width="171"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0bdd87a59d2d4f89a127f5da96ad1f2b"
+        textAlignment="1"
+        content="1">
+      <bounds
+          width="25"
+          height="25"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-d4333fdd53044953ac85fa26484a5d44.xml#id-d4333fdd53044953ac85fa26484a5d44"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94e9813cbd684b01969cea029a631e96">
+    <features
+        name="labelExpression"
+        value="${name}\nRendimento: 0,060"/>
+    <bounds
+        x="1224"
+        y="156"
+        width="169"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-bc7480fcf6064cc8a734daf65137cacc"
+        textAlignment="1"
+        content="4">
+      <bounds
+          width="25"
+          height="25"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-40756aa9e80b4eefaa14a69e4e52d27c.xml#id-40756aa9e80b4eefaa14a69e4e52d27c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-19dac7f0e615427db14d9a42d0027e0d">
+    <features
+        name="labelExpression"
+        value="${name}\nRendimento: 0,080"/>
+    <bounds
+        x="1224"
+        y="300"
+        width="169"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-288d792f497d464eb99d830b2c0d8f25"
+        textAlignment="1"
+        content="2">
+      <bounds
+          width="25"
+          height="25"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-1284d2e3e0be42d1928cc0da57ddc1ce.xml#id-1284d2e3e0be42d1928cc0da57ddc1ce"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d958d917ed114d818858568ca189cbc8">
     <features
         name="labelExpression"
         value="${name}\nRendimento: 0,000&#xA;"/>
     <bounds
-        x="1218"
-        y="737"
+        x="1223"
+        y="516"
         width="171"
         height="64"/>
     <children
@@ -651,18 +601,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6dcc8d4b735f43cba856d023f12dcd7b">
+      id="id-97c2e0c9aa964038b7dedb8e8d89c050">
     <features
         name="labelExpression"
-        value="${name}\nRendimento: 0,000"/>
+        value="${name}\nRendimento: 0,030"/>
     <bounds
-        x="1218"
-        y="816"
-        width="181"
+        x="1224"
+        y="744"
+        width="169"
         height="55"/>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="id-0bdd87a59d2d4f89a127f5da96ad1f2b"
+        id="id-7b91d08781944af8bed04b8687eabc79"
         textAlignment="1"
         content="1">
       <bounds
@@ -671,6 +621,30 @@
     </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-d4333fdd53044953ac85fa26484a5d44.xml#id-d4333fdd53044953ac85fa26484a5d44"/>
+        href="BusinessObject_id-cf78b0eca9f7480384f8b4f72e98aae1.xml#id-cf78b0eca9f7480384f8b4f72e98aae1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-92d5e76ee84e4ca7bb37e7bf3bf39326">
+    <features
+        name="labelExpression"
+        value="${name}\nRendimento: 0,000"/>
+    <bounds
+        x="1224"
+        y="816"
+        width="169"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-021e957fa172479abfd83755a1b205c1"
+        textAlignment="1"
+        content="1">
+      <bounds
+          width="25"
+          height="25"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-19111903d82e4de38f3d42ad22a08ebe.xml#id-19111903d82e4de38f3d42ad22a08ebe"/>
   </children>
 </archimate:ArchimateDiagramModel>
