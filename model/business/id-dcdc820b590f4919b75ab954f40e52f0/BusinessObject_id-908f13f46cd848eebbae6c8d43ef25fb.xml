@@ -1,10 +1,10 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BASE TILÁPIA 240G"
+    name="BASE TILÁPIA"
     id="id-908f13f46cd848eebbae6c8d43ef25fb">
   <properties
       key="Rendimento"
-      value="0,300"/>
+      value="6 unidades de 120g para 1Kg"/>
   <properties
       key="Tempo de preparo"
       value="1,00"/>

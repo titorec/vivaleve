@@ -302,7 +302,7 @@
         id="id-f9c2d04f32324aba8bf76b3a68b03d4a">
       <features
           name="labelExpression"
-          value="${name}\nRendimento: 2,510"/>
+          value="${name}\nRendimento: 1,500"/>
       <bounds
           x="24"
           y="108"
@@ -319,8 +319,8 @@
           name="labelExpression"
           value="${name}\nRendimento: ${property:Rendimento}"/>
       <bounds
-          x="24"
-          y="42"
+          x="972"
+          y="36"
           width="181"
           height="55"/>
       <archimateElement
