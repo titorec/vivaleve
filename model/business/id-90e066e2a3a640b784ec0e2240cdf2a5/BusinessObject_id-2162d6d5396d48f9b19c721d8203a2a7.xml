@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PICADINHO DE FRANGO"
-    id="id-2162d6d5396d48f9b19c721d8203a2a7"/>
+    id="id-2162d6d5396d48f9b19c721d8203a2a7">
+  <properties
+      key="Preço de venda"
+      value="22,00"/>
+</archimate:BusinessObject>

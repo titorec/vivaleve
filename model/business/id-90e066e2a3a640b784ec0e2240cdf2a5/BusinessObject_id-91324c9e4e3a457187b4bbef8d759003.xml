@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PICADINHO DE PATINHO C/ PURÊ BATATA DOCE"
-    id="id-91324c9e4e3a457187b4bbef8d759003"/>
+    id="id-91324c9e4e3a457187b4bbef8d759003">
+  <properties
+      key="Preço de venda"
+      value="25,00"/>
+</archimate:BusinessObject>

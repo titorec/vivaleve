@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PICADINHO DE CARNE COM ARROZ, FEIJÃO PRETO E LEGUMES"
-    id="id-d009a7c899004054ba2363fe42707ea0"/>
+    id="id-d009a7c899004054ba2363fe42707ea0">
+  <properties
+      key="Preço de venda"
+      value="25,00"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LASANHA DE ABOBRINHA COM FRANGO"
-    id="id-c39a23265acb4b89b03ebc7693910868"/>
+    id="id-c39a23265acb4b89b03ebc7693910868">
+  <properties
+      key="Preço de venda"
+      value="22,00"/>
+</archimate:BusinessObject>

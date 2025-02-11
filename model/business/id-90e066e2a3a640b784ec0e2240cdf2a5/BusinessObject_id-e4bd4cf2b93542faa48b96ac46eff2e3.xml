@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PICADINHO CARNE C/ BATATA SOUTÉ E ARROZ"
-    id="id-e4bd4cf2b93542faa48b96ac46eff2e3"/>
+    id="id-e4bd4cf2b93542faa48b96ac46eff2e3">
+  <properties
+      key="Preço de venda"
+      value="25,00"/>
+</archimate:BusinessObject>
