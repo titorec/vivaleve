@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rodada de anúncio (Facebook)"
+    id="id-c2b04c9be20e4073af7ba2d85f36302f">
+  <properties
+      key="Valor"
+      value="1500,00"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

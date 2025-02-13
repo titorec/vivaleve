@@ -1,0 +1,49 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="2025-02-13: Compra para teste de produção"
+    id="id-524f9384939c4bffb50d0ac7ab86a03a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-831bbd33f370426ebfb0d5bb68145caf">
+    <bounds
+        x="396"
+        y="84"
+        width="193"
+        height="241"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-bd88bf239cf743f6b0578a0ba07afa71">
+      <features
+          name="labelExpression"
+          value="R$ ${property:Valor}&#xA;&#xA;${name}"/>
+      <bounds
+          x="36"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-843db37b57e142f19e8173022e657482.xml#id-843db37b57e142f19e8173022e657482"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-70bc9c14166c47198e7665f8ad5db7b2">
+      <features
+          name="labelExpression"
+          value="R$ ${property:Valor}&#xA;&#xA;${name}"/>
+      <bounds
+          x="36"
+          y="156"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-4b42985a60324ea48ed73bb60b792f11.xml#id-4b42985a60324ea48ed73bb60b792f11"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-9e3ad10a17114ebe95facd03207f7754.xml#id-9e3ad10a17114ebe95facd03207f7754"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pote retangular 500ml"
+    id="id-ec01ae70d88c4a1688dc29330cd78e9a">
+  <properties
+      key="Valor"
+      value="94,00"/>
+  <properties
+      key="Unidade"
+      value="144 und"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

@@ -1,0 +1,20 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Nota: 2025-02-03 13:53"
+    id="id-3fe577df3df54e4dac64813220087676">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-0c9c7213f19b482a804c296485398b2b"
+      borderColor="#000000"
+      imagePath="images/_1b_ogOpNEe-grbJj3-yp-g.jpeg">
+    <bounds
+        x="312"
+        y="24"
+        width="361"
+        height="1045"/>
+  </children>
+  <properties
+      key="Valor"
+      value="264,00"/>
+</canvas:CanvasModel>

@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2025-02-08: Compra para atender primeira produção"
+    id="id-ddb7f8d7dc3a48a09d3c3504596af3f5">
+  <properties
+      key="Valor"
+      value="637,53"/>
+  <properties
+      key="Link"
+      value="https://chat.deepseek.com/a/chat/s/816e363e-263e-46c7-bf0a-135d496c56e7"/>
+  <profiles
+      href="folder.xml#id-729f4d112a8b47d8a56aff0e46cf0559"/>
+</archimate:BusinessObject>

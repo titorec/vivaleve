@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2025-02-03: Compra de embalagens"
+    id="id-a38938467d514375b03e584a3efb7bd0">
+  <properties
+      key="Valor"
+      value="264,00"/>
+  <profiles
+      href="folder.xml#id-729f4d112a8b47d8a56aff0e46cf0559"/>
+</archimate:BusinessObject>

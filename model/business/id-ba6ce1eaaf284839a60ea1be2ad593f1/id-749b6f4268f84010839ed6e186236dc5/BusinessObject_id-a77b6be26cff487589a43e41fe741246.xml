@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultoria"
+    id="id-a77b6be26cff487589a43e41fe741246">
+  <properties
+      key="Valor"
+      value="1000,00"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

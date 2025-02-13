@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pote redondo 500ml"
+    id="id-d2f328822f734dafbde8891b06ec78f6">
+  <properties
+      key="Valor"
+      value="170,00"/>
+  <properties
+      key="Unidade"
+      value="288 und"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2025-01-13: Compra para teste de produção"
+    id="id-9e3ad10a17114ebe95facd03207f7754">
+  <properties
+      key="Valor"
+      value="301,61"/>
+  <properties
+      key="Link"
+      value="https://chat.deepseek.com/a/chat/s/6a31eba1-6b26-48f2-bffc-1069ff0fb265"/>
+  <profiles
+      href="folder.xml#id-729f4d112a8b47d8a56aff0e46cf0559"/>
+</archimate:BusinessObject>

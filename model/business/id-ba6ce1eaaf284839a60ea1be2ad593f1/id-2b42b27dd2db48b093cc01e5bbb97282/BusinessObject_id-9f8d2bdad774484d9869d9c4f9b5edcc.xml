@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plataforma de vendas digital"
+    id="id-9f8d2bdad774484d9869d9c4f9b5edcc">
+  <properties
+      key="Valor"
+      value="50,00"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

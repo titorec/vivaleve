@@ -2,4 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vivaleve-repository"
     id="id-c0b1a57ef50f410296a7265512369a9b"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Custo"
+      id="id-061c75b2aff249e1b44ba0b4da335c43"
+      conceptType="BusinessObject"/>
+  <profiles
+      name="Compra"
+      id="id-729f4d112a8b47d8a56aff0e46cf0559"
+      conceptType="BusinessObject"/>
+</archimate:ArchimateModel>

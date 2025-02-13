@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conta de luz"
+    id="id-ca558ce55a3143f4a21cefb67ef30dd9">
+  <properties
+      key="Valor"
+      value="200,00"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

@@ -1,0 +1,34 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="2025-02-03: Compra de embalagens"
+    id="id-2376b394eb1f42d3af421d64c076db66">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c6ee2c0dfd1449048a1ab3b0c4d73d82">
+    <bounds
+        x="264"
+        y="96"
+        width="469"
+        height="217"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a323e8d0e94d47bf9370b8f322aa1a3b">
+      <features
+          name="labelExpression"
+          value="R$ ${property:Valor}&#xA;&#xA;${name}"/>
+      <bounds
+          x="168"
+          y="84"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-3fe577df3df54e4dac64813220087676.xml#id-3fe577df3df54e4dac64813220087676"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-a38938467d514375b03e584a3efb7bd0.xml#id-a38938467d514375b03e584a3efb7bd0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

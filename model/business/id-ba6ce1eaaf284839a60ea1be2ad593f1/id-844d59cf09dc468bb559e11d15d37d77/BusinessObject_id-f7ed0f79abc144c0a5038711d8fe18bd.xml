@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gás de cozinha"
+    id="id-f7ed0f79abc144c0a5038711d8fe18bd">
+  <properties
+      key="Valor"
+      value="150,00"/>
+  <profiles
+      href="folder.xml#id-061c75b2aff249e1b44ba0b4da335c43"/>
+</archimate:BusinessObject>

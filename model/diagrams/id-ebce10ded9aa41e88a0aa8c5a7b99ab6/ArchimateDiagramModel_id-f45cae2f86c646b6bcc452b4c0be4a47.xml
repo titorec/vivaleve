@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cálculo de base para compra"
+    id="id-f45cae2f86c646b6bcc452b4c0be4a47">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7af9ebbe4c27418c81e86c2528233fda"
+      textAlignment="1"
+      content="Você é um especialista em cozinha para formação de preço&#xA;&#xA;- a unidade de médida é kg&#xA;&#xA;- Para produção de uma base de (Base Arroz Integral) é gasto a seguinte quantidade de ingredientes&#xA;- a quantidade dos ingredientes deve ser mantida, elas não sofrem alteração para proporção da perda do cozimento&#xA;- Se for arroz, feijão ou verdura leve em consideração o ganho ou perda do rendimento após cozimento&#xA;&#xA;0,010 kg - Folha de Louro (Base Arroz Integral)  &#xA;0,015 kg - Manteiga (Base Arroz Integral)  &#xA;0,020 kg - Alho (Base Arroz Integral)  &#xA;0,020 kg - Azeite (Base Arroz Integral)  &#xA;0,050 kg - Cebola (Base Arroz Integral)  &#xA;0,500 kg - Arroz Integral (Base Arroz Integral)&#xA;&#xA;- A produção da base não pode ser fracionada.. ela só pode ser produzida por inteiro&#xA;- Qual rendimento após a produção dessa base ? depois que eu coloco tudo na panela de uma vez&#xA;&#xA;- Quantas bases eu preciso produzir para atender uma demanda em cada prato abaixo? quero 10 pratos de cada&#xA;&#xA;0,080 kg - Tilápia com Feijão, Arroz e Legumes (Base Arroz Integral)  &#xA;0,100 kg - Picadinho Frango com Batata Souté e Arroz (Base Arroz Integral)  &#xA;0,120 kg - Picadinho Carne com Batata Souté e Arroz (Base Arroz Integral)  &#xA;0,120 kg - Picadinho de Carne com Arroz, Feijão e Legumes (Base Arroz Integral)  &#xA;0,120 kg - Picadinho de Carne com Arroz, Feijão Preto e Legumes (Base Arroz Integral)  &#xA;0,120 kg - Picadinho de Frango com Arroz, Feijão de Corda e Legumes (Base Arroz Integral)  &#xA;0,120 kg - Picadinho de Frango com Arroz, Feijão Preto e Legumes (Base Arroz Integral)  &#xA;&#xA;- Quanto de ingrediente para produção eu preciso comprar para produção das bases?&#xA;&#xA;- vou te passando mais análises depois dessa e você vai montando o total a ser comprado individual para esse item ok?&#xA;- No final quero o resultado de tudo que tenho que comprar e a quantidade ok?&#xA;- quero uma precisão de 3 casas decimais na resposta">
+    <bounds
+        x="120"
+        y="24"
+        width="673"
+        height="553"/>
+  </children>
+</archimate:ArchimateDiagramModel>
