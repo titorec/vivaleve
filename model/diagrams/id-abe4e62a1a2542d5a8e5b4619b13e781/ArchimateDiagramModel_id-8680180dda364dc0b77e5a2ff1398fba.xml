@@ -367,7 +367,8 @@
           id="id-a795222747804b898fe4bb802aa8221f"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="5">
+          fillColor="#ffcc00"
+          content="6">
         <bounds
             width="25"
             height="25"/>
@@ -411,7 +412,8 @@
           id="id-3b0222d8ed9c46f2b4a53e855afee90e"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="8">
+          fillColor="#ffcc00"
+          content="3">
         <bounds
             width="25"
             height="25"/>
@@ -433,7 +435,8 @@
           id="id-d3d3bed8dc104920ac792ea8928193c2"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="1">
+          fillColor="#ffcc00"
+          content="2">
         <bounds
             width="25"
             height="25"/>
@@ -455,7 +458,8 @@
           id="id-f25853288e784fcd978c2788f0587c5c"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="4">
+          fillColor="#ffcc00"
+          content="2">
         <bounds
             width="25"
             height="25"/>
@@ -477,6 +481,7 @@
           id="id-31aaa0559461411485b7febebd93988f"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
+          fillColor="#ffcc00"
           content="1">
         <bounds
             width="25"
@@ -543,7 +548,8 @@
           id="id-89bd230a1a7f47639f4405216a4591e6"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="6">
+          fillColor="#ffffff"
+          content="4">
         <bounds
             width="25"
             height="25"/>
@@ -587,7 +593,8 @@
           id="id-61a3c7a2893c437a9039f29f1701741c"
           font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="2">
+          fillColor="#ffcc00"
+          content="3">
         <bounds
             width="25"
             height="25"/>
