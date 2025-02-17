@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lista de compras"
+    id="id-32f70c8d161d41b7903a9f7f29cf86ed">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fb514429919b4a69a7301cee010c1658"
+      textAlignment="1"
+      content="Agrupe os itens que vou mandando aqui para gerar uma lista de compras para mim, ok?&#xA;quero a lista de compras no formato de tabela com descrição e quantidade do item para comprar e o valor do kg&#xA;&#xA;a coluna valor do kg deve ficar vazia para eu preencher manualmente quando for comprar o item, ok?&#xA;&#xA;- quero o resultado em formato de tabela">
+    <bounds
+        x="120"
+        y="24"
+        width="673"
+        height="109"/>
+  </children>
+</archimate:ArchimateDiagramModel>
