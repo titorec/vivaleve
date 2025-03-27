@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Simulação de produção"
+    name="Simulação de produção de refeições comuns"
     id="id-8680180dda364dc0b77e5a2ff1398fba">
   <children
       xsi:type="archimate:DiagramModelGroup"
