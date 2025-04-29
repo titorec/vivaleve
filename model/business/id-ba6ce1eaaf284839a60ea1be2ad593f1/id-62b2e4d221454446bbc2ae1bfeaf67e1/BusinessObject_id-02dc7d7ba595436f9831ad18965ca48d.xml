@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2025-04-29: Compra para atender primeira reposição de estoque"
+    id="id-02dc7d7ba595436f9831ad18965ca48d">
+  <properties
+      key="Valor"
+      value="128,52"/>
+  <profiles
+      href="folder.xml#id-729f4d112a8b47d8a56aff0e46cf0559"/>
+</archimate:BusinessObject>

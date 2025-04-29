@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="2025-04-29: Compra para atender primeira reposição de estoque"
+    id="id-e3da774d5ae24b9f9929c357a4e6eab4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62513fbd9d294f4fae2643b19e3c5321">
+    <bounds
+        x="588"
+        y="204"
+        width="425"
+        height="305"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-21db00829a954edcbec556553df14d2d">
+      <bounds
+          x="36"
+          y="60"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-960bf7d43ec5476ba2fcba614cc9eb8e.xml#id-960bf7d43ec5476ba2fcba614cc9eb8e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-02dc7d7ba595436f9831ad18965ca48d.xml#id-02dc7d7ba595436f9831ad18965ca48d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
